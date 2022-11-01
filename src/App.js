@@ -18,7 +18,7 @@ function App() {
             src = "https://writeabout.tech/wp-content/uploads/2019/08/javascript-3-1280x728.png"
             prag="lorem10 hello how are you whars agoing fehf fgeife lsEgis euesygye "/>
       <Cards
-            title="Node"
+            title="Nodejs and express"
             src = "https://writeabout.tech/wp-content/uploads/2019/08/javascript-3-1280x728.png"
             prag="lorem10 hello how are you whars agoing fehf fgeife lsEgis euesygye " />
     
